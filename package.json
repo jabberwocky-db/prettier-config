@@ -1,5 +1,6 @@
 {
-    "name": "@jabberwocky-db/prettier",
+    "name": "@jabberwocky-db/prettier-config",
+    "version": "0.0.1",
     "sideEffects": false,
     "main": "index.json",
     "prettier": "./index.json",
