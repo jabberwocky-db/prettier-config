@@ -1,6 +1,7 @@
 {
     "name": "@jabberwocky-db/prettier-config",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "license": "MIT",
     "sideEffects": false,
     "main": "index.json",
     "prettier": "./index.json",
