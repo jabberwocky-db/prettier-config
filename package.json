@@ -1,0 +1,13 @@
+{
+    "name": "@jabberwocky-db/prettier",
+    "sideEffects": false,
+    "main": "index.json",
+    "prettier": "./index.json",
+    "files": [],
+    "dependencies": {
+        "@prettier/plugin-xml": "^2.2.0"
+    },
+    "peerDependencies": {
+        "prettier": "^2.6.0"
+    }
+}
