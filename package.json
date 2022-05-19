@@ -6,6 +6,10 @@
     "main": "index.json",
     "prettier": "./index.json",
     "files": [],
+    "scripts": {
+        "format": "yarn prettier . --write",
+        "publish": "clean-publish"
+    },
     "dependencies": {
         "@prettier/plugin-xml": "^2.2.0",
         "prettier": "^2.6.2",
@@ -15,14 +19,8 @@
         "clean-publish": "^4.0.0"
     },
     "clean-publish": {
-        "files": [
-            "CHANGELOG.md",
-            ".yarn/*",
-            ".gitignore"
-        ],
-        "fields": [
-            "scripts"
-        ],
+        "fields": ["scripts", "packageManager"],
+        "files": ["tmp", ".yarn"],
         "packageManager": "yarn"
     },
     "packageManager": "yarn@3.2.1"
