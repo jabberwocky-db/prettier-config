@@ -1,14 +1,16 @@
 <h1 align="center">Jabberwocky DB - Prettier Config</h1>
 <p align="center">
-  <img src="https://img.shields.io/npm/v/@jabberwocky-db/prettier-config.svg?orange=blue" />
-  <a href="https://www.npmjs.com/package/@jabberwocky-db/prettier-config">
-    <img alt="downloads" src="https://img.shields.io/npm/dm/@jabberwocky-db/prettier-config.svg?color=blue" target="_blank" />
+  <a href="https://www.npmjs.com/package/@jabberwocky-db/prettier-config" target="_blank" >
+        <img src="https://img.shields.io/npm/v/@jabberwocky-db/prettier-config.svg?color=red" />
   </a>
-  <a href="https://github.com/jabberwocky-db/prettier-config/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+  <a href="https://github.com/jabberwocky-db/prettier-config/blob/master/LICENSE" target="_blank" >
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
   </a>
-  <a href="https://github.com/jabberwocky-db/prettier-config/blob/master/CHANGELOG">
-    <img src="https://img.shields.io/badge/updates-Changelog-brightgreen.svg" alt="Changelog">
+  <a href="https://libraries.io/npm/@jabberwocky-db%2Fprettier-config" target="_blank" >
+    <img alt="License: MIT" src="https://img.shields.io/librariesio/release/npm/@jabberwocky-db/prettier-config" />
+  </a>
+  <a href="https://www.npmjs.com/package/@jabberwocky-db/prettier-config" target="_blank" >
+    <img alt="downloads" src="https://img.shields.io/npm/dm/@jabberwocky-db/prettier-config.svg?color=purple"/>
   </a>
 </p>
 
