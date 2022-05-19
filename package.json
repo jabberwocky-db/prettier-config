@@ -16,6 +16,8 @@
     },
     "packageManager": "yarn@3.2.1",
     "repository": "github:@jabberwocky-db/prettier-config",
+    "homepage": "https://github.com/jabberwocky-db/prettier-config#readme",
+    "keywords": ["prettier", "prettier-config", "jabberwocky", "jabberwocky-db", "format"],
     "author": {
         "name" : "Jabberwocky DB",
         "email" : "zach@jwocky.com"
