@@ -17,19 +17,25 @@
     "packageManager": "yarn@3.2.1",
     "repository": "github:@jabberwocky-db/prettier-config",
     "homepage": "https://github.com/jabberwocky-db/prettier-config#readme",
-    "keywords": ["prettier", "prettier-config", "jabberwocky", "jabberwocky-db", "format"],
+    "keywords": [
+        "prettier",
+        "prettier-config",
+        "jabberwocky",
+        "jabberwocky-db",
+        "format"
+    ],
     "author": {
-        "name" : "Jabberwocky DB",
-        "email" : "zach@jwocky.com"
+        "name": "Jabberwocky DB",
+        "email": "zach@jwocky.com"
     },
     "contributors": [
         {
-            "name" : "Zachary Raineri",
-            "email" : "zach@jwocky.com"
+            "name": "Zachary Raineri",
+            "email": "zach@jwocky.com"
         }
     ],
     "bugs": {
-        "url" : "https://github.com/jabberwocky-db/prettier-config/issues",
-        "email" : "zach@jwocky.com"
+        "url": "https://github.com/jabberwocky-db/prettier-config/issues",
+        "email": "zach@jwocky.com"
     }
 }

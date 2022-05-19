@@ -19,14 +19,16 @@
 
 > The prettier config used by the Jabberwocky DB team and others
 
-## ⬇️  Install
+## ⬇️ Install
 
 Run the following command at the root of your project:
 
 **Yarn**
+
 ```sh
 yarn add @jabberwocky-db/prettier-config --dev
 ```
+
 **NPM**
 
 ```sh
@@ -36,18 +38,22 @@ npm install @jabberwocky-db/prettier-config --save-dev
 ## 🚀 Usage
 
 Add the following to your package.json file:
+
 ```json
     "prettier": "@jabberwocky-db/prettier-config"
 ```
+
 [or use as a baseline within your current prettier configuration file.](https://prettier.io/docs/en/configuration.html)
 
-## 📚  Resources
-- [Prettier Documentation](https://prettier.io/docs/en/index.html)
-- [Prettier Playground](https://prettier.io/playground/)
-- [Editor Integrations](https://prettier.io/docs/en/editors.html)
+## 📚 Resources
+
+-   [Prettier Documentation](https://prettier.io/docs/en/index.html)
+-   [Prettier Playground](https://prettier.io/playground/)
+-   [Editor Integrations](https://prettier.io/docs/en/editors.html)
 
 ## 📎 Similar Jabberwocky DB Repos
-- [Eslint Config](https://github.com/jabberwocky-db/prettier-config)
-- [Jest Config](https://github.com/jabberwocky-db/jest-config)
-- [tsconfig](https://github.com/jabberwocky-db/tsconfig)
-- [Node tsconfig](https://github.com/jabberwocky-db/tsconfig-node)
+
+-   [Eslint Config](https://github.com/jabberwocky-db/prettier-config)
+-   [Jest Config](https://github.com/jabberwocky-db/jest-config)
+-   [tsconfig](https://github.com/jabberwocky-db/tsconfig)
+-   [Node tsconfig](https://github.com/jabberwocky-db/tsconfig-node)
