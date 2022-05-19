@@ -7,21 +7,12 @@
     "prettier": "./index.json",
     "files": [],
     "scripts": {
-        "format": "yarn prettier . --write",
-        "publish": "clean-publish"
+        "format": "yarn prettier . --write"
     },
     "dependencies": {
         "@prettier/plugin-xml": "^2.2.0",
         "prettier": "^2.6.2",
         "prettier-plugin-sh": "^0.11.0"
-    },
-    "devDependencies": {
-        "clean-publish": "^4.0.0"
-    },
-    "clean-publish": {
-        "fields": ["scripts", "packageManager"],
-        "files": ["tmp"],
-        "packageManager": "yarn"
     },
     "packageManager": "yarn@3.2.1"
 }
