@@ -8,7 +8,8 @@
     "files": [],
     "dependencies": {
         "@prettier/plugin-xml": "^2.2.0",
-        "prettier": "^2.6.2"
+        "prettier": "^2.6.2",
+        "prettier-plugin-sh": "^0.11.0"
     },
     "packageManager": "yarn@3.2.1"
 }
