@@ -1,7 +1,7 @@
 <h1 align="center">Jabberwocky DB - Prettier Config</h1>
 <p align="center">
   <a href="https://www.npmjs.com/package/@jabberwocky-db/prettier-config" target="_blank" >
-        <img src="https://img.shields.io/npm/v/@jabberwocky-db/prettier-config.svg?color=red" />
+        <img src="https://img.shields.io/npm/v/@jabberwocky-db/prettier-config.svg?color=white" />
   </a>
   <a href="https://github.com/jabberwocky-db/prettier-config/blob/master/LICENSE" target="_blank" >
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
