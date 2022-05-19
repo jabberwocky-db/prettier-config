@@ -20,7 +20,7 @@
     },
     "clean-publish": {
         "fields": ["scripts", "packageManager"],
-        "files": ["tmp", ".yarn"],
+        "files": ["tmp"],
         "packageManager": "yarn"
     },
     "packageManager": "yarn@3.2.1"
